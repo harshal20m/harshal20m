@@ -1,9 +1,9 @@
-<img src="" />
 <h1 align="center">Hi 👋, I'm Harshal Mali</h1>
 <h3 align="center">A passionate FullStack developer from Pune, Maharashtra.</h3>
 
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
+  <br>
   <br>
   <a style="" href="https://github.com/harshalmali20">
   <img src="https://komarev.com/ghpvc/?username=harshalmali20m&label=Profile%20views&color=0e75b6&style=flat" alt="harshalmali20m" />
