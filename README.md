@@ -1,3 +1,4 @@
+<img src="https://www.bing.com/th/id/OGC.cee4146156d67201dd74ec748595d410?pid=1.7&rurl=https%3a%2f%2fmedia0.giphy.com%2fmedia%2f3o7TKKImRT3NiD8IM0%2fgiphy.gif&ehk=s4UB0lA3t%2bu4hJ4KqzZn2v02CUc6HyAE776Mpgxvmt0%3d" />
 <h1 align="center">Hi 👋, I'm Harshal Mali</h1>
 <h3 align="center">A passionate FullStack developer from Pune, Maharashtra.</h3>
 
