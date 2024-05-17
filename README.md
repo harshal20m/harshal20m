@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalmali20m&label=Profile%20views&color=0e75b6&style=flat" alt="harshalmali20m" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshalmali20m" alt="harshalmali20m" /></a> </p>
-
 - 🔭 I’m currently working on **Online book Resale Website**
 
 - 🌱 I’m currently learning **Flutter App development**
