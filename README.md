@@ -18,13 +18,9 @@
 
 - 🌱 I’m currently learning **To Master MERN stack develpoment**
 
-- 👯 I’m looking to collaborate on **FullStack projects**
+- I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
 - 👨‍💻 All of my projects are available at [https://harshalmali.netlify.app/](https://harshalmali.netlify.app/)
-
-- 💬 Ask me about **MERN Stack, DataBases, Prompt Eng.**
-
-- 📫 How to reach me **20harshalmali@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
