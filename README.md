@@ -10,7 +10,7 @@
   </a>
 </p>
 <a style="" href="https://github.com/harshalmali20">
-<img align="right" alt="GIF" src="https://www.bing.com/th/id/OGC.bc98c9dcc76893a46fc71f3920846a05?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1708950%2fscreenshots%2f4188877%2fdeveloper_med.gif&ehk=txGZ8W3IvGcoU%2fm3agaZSpqSrXC4agMACxTlbiMdU2E%3d" width="50%" height="70%" style="margin:0 50px;">
+<img align="right" alt="GIF" src="https://www.bing.com/images/search?view=detailV2&ccid=izX%2b9V%2b6&id=D02CF19F3A253C140544B42B70E67D291A3F37CB&thid=OIP.izX-9V-6GiAcnHoR0-w9ZAHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f416610%2fscreenshots%2f4801105%2fcoding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif&exph=600&expw=800&q=gif+coders&simid=608036966060539466&FORM=IRPRST&ck=6FE62651CAC331EFD8618B5D23FFF89B&selectedIndex=76&itb=0" width="50%" height="70%" style="margin:0 50px;">
 </a>
 
 
