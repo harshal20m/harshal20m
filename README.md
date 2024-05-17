@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Online book Resale Website**
 
-- 🌱 I’m currently learning **Flutter App development**
+- 🌱 I’m currently learning **To Master MERN stack develpoment**
 
 - 👯 I’m looking to collaborate on **FullStack projects**
 
