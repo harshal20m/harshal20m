@@ -1,8 +1,18 @@
-<img src="https://www.bing.com/th/id/OGC.cee4146156d67201dd74ec748595d410?pid=1.7&rurl=https%3a%2f%2fmedia0.giphy.com%2fmedia%2f3o7TKKImRT3NiD8IM0%2fgiphy.gif&ehk=s4UB0lA3t%2bu4hJ4KqzZn2v02CUc6HyAE776Mpgxvmt0%3d" />
+<img src="" />
 <h1 align="center">Hi 👋, I'm Harshal Mali</h1>
 <h3 align="center">A passionate FullStack developer from Pune, Maharashtra.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalmali20m&label=Profile%20views&color=0e75b6&style=flat" alt="harshalmali20m" /> </p>
+<p align="center">
+  <b style="color: blue;  ">Visitor count</b>
+  <br>
+  <a style="" href="https://github.com/harshalmali20">
+  <img src="https://komarev.com/ghpvc/?username=harshalmali20m&label=Profile%20views&color=0e75b6&style=flat" alt="harshalmali20m" />
+  </a>
+</p>
+<a style="" href="https://github.com/harshalmali20">
+<img align="right" alt="GIF" src="https://www.bing.com/th/id/OGC.cee4146156d67201dd74ec748595d410?pid=1.7&rurl=https%3a%2f%2fmedia0.giphy.com%2fmedia%2f3o7TKKImRT3NiD8IM0%2fgiphy.gif&ehk=s4UB0lA3t%2bu4hJ4KqzZn2v02CUc6HyAE776Mpgxvmt0%3d" width="50%" height="70%" style="margin:0 50px;">
+</a>
+
 
 - 🔭 I’m currently working on **Online book Resale Website**
 
