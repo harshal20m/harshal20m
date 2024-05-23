@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Online book Resale Website**
 
-- 🌱 I’m currently learning **To Master MERN stack develpoment**
+- 🌱 I’m currently learning and exploring ** Master MERN stack develpoment** at industry level standards.
 
 - I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
