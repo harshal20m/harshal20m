@@ -47,7 +47,7 @@
   </a> 
   &nbsp;&nbsp; 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="border-radius:50%; background-color:black; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="border-radius:50%;  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);"/> 
   </a> 
   &nbsp;&nbsp; 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
