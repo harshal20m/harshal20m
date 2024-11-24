@@ -87,8 +87,9 @@
 <div align="center">
   
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<br>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c3dj7nf6v3jpxbxuogg2lcic3a)
 </div>
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c3dj7nf6v3jpxbxuogg2lcic3a)
 
