@@ -85,7 +85,7 @@
   - I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 </p>
 <p align="center">
-  - 👨‍💻 All of my projects are available at [LINK](https://harshalmali.online/)
+  - 👨‍💻 All of my projects are available at <a href="https://harshalmali.online">Portfolio</a>
 </p>
 
 <br clear="both">
