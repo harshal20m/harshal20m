@@ -86,3 +86,7 @@
 
 ###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c3dj7nf6v3jpxbxuogg2lcic3a)
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=harshal20m" alt="Layout with last medium posts"  />
+</div>
