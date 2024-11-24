@@ -105,6 +105,6 @@
 <br>
 
 <div>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshal20m&repo=Car-Rental-Website)](https://github.com/harshal20m/Car-Rental-Website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=harshal20m&repo=Car-Rental-Website)](https://github.com/harshal20m/Car-Rental-Website)
 </div>
   
