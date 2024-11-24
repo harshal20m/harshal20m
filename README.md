@@ -75,13 +75,16 @@
 
 ###
 
-- 🔭 I’m currently working on **AI based NotesApp**
+<p align="center">
+  - 🔭 I’m currently working on **AI based NotesApp**
 
-- 🌱 I’m currently learning and exploring **Master MERN stack develpoment** at industry level standards.
+  - 🌱 I’m currently learning and exploring **Master MERN stack development** at industry level standards.
 
-- I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
+  - I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
-- 👨‍💻 All of my projects are available at [LINK](https://harshalmali.online/)
+  - 👨‍💻 All of my projects are available at [LINK](https://harshalmali.online/)
+</p>
+
 
 <br clear="both">
 <div align="center">
