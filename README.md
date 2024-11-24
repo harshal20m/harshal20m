@@ -91,5 +91,6 @@
 </div>
 
 ###
+<div align="center">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c3dj7nf6v3jpxbxuogg2lcic3a)
-
+</div>
