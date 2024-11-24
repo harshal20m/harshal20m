@@ -103,4 +103,3 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c3dj7nf6v3jpxbxuogg2lcic3a" alt="Alt text">
 </p>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshal20m&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
