@@ -117,3 +117,15 @@
 
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra\&repo=github-readme-stats)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="Readme Card">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="Readme Card">
+    </td>
+  </tr>
+</table>
+
