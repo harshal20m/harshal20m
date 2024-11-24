@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Harshal Mali<br>and I'm a Full Stack Web Developer <br>from Pune, India🔥</h2>
+<h2 align="center">Hi 👋! My name is Harshal Mali<br>and I'm a Full Stack 🌐 Web Developer <br>📍 Pune, India🔥</h2>
 
 ###
 
