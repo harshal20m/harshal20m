@@ -85,4 +85,4 @@
 <img src="https://raw.githubusercontent.com/harshal20m/harshal20m/output/snake.svg" alt="Snake animation" />
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c3dj7nf6v3jpxbxuogg2lcic3a)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c3dj7nf6v3jpxbxuogg2lcic3a&count={1})
