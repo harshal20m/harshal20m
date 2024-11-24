@@ -11,6 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshal20m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=harshal20m&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 ###
 
 <img align="right" height="150" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  />
