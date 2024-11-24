@@ -76,7 +76,7 @@
 
 ###
 
-- 🔭 I’m currently working on **Online book Resale Website**
+- 🔭 I’m currently working on **AI based NotesApp**
 
 - 🌱 I’m currently learning and exploring ** Master MERN stack develpoment** at industry level standards.
 
