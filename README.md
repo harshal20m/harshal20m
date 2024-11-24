@@ -43,6 +43,14 @@
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
 </div>
 
+
+- 🔭 I’m currently working on **Online book Resale Website**
+
+- 🌱 I’m currently learning and exploring ** Master MERN stack develpoment** at industry level standards.
+
+- I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
+
+- 👨‍💻 All of my projects are available at [https://harshalmali.online/](https://harshalmali.online/)
 ###
 
 <div align="left">
