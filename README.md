@@ -105,6 +105,7 @@
 <br>
 
 <div align="center">
+	<h2>The Top Pins</h2>
 <table>
   <tr>
 	<td>
