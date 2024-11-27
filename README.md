@@ -14,14 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=harshal20m&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshal20m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-
-<p align="center">
-  <small>
-    These stats provide an overview of my contributions on GitHub, including commits, pull requests, and issues. The languages section highlights the programming languages I've used the most in my repositories, offering a glimpse into my coding expertise and preferences.
-  </small>
-</p>
-
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=harshal20m&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
@@ -114,6 +106,11 @@
 </div>
 
 ###
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c3dj7nf6v3jpxbxuogg2lcic3a" alt="Alt text">
+</p>
+
 <br>
 
 <div align="center">
@@ -167,6 +164,3 @@
 
 
 <br>
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c3dj7nf6v3jpxbxuogg2lcic3a" alt="Alt text">
-</p>
