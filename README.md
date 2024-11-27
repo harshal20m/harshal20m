@@ -29,9 +29,9 @@
 ###
 
 <div align="center">
- <table style="border: none;">
+  <table style="border: none;">
     <tr>
-      <td align="center">
+      <td align="center" style="border: none;">
         <h3>Skills</h3>
         <div>
           <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
@@ -63,7 +63,7 @@
           <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo" />
         </div>
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <h3>Social Handles</h3>
         <div>
           <a href="https://www.linkedin.com/in/harshal-mali-b40b61244/" target="_blank">
