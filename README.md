@@ -6,7 +6,7 @@
 
 ###
 
-<div align="center" style="font-size: 8px;">
+<div align="center">
   <img src="https://profile-counter.glitch.me/harshal20m/count.svg?" alt="Visitor Count" />
 </div>
 <br>
@@ -15,7 +15,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshal20m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<p align="center">These stats provide an overview of my contributions on GitHub, including commits, pull requests, and issues. The languages section highlights the programming languages I've used the most in my repositories, offering a glimpse into my coding expertise and preferences.</p>
+<p align="center" style="font-size: 12px;">
+  These stats provide an overview of my contributions on GitHub, including commits, pull requests, and issues. The languages section highlights the programming languages I've used the most in my repositories, offering a glimpse into my coding expertise and preferences.
+</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=harshal20m&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
