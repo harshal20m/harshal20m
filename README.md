@@ -6,7 +6,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="font-size: 8px;">
   <img src="https://profile-counter.glitch.me/harshal20m/count.svg?" alt="Visitor Count" />
 </div>
 <br>
