@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <table>
+ <table style="border: none;">
     <tr>
       <td align="center">
         <h3>Skills</h3>
