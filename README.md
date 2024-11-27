@@ -1,4 +1,29 @@
-<h2 align="center">Hi 👋! My name is  Harshal Mali   <br>and I'm a Full Stack 🌐 Web Developer <br>📍 Pune, India🔥</h2>
+<h2 align="center">
+  Hi 👋! My name is <span style="color: #4CAF50;">Harshal Mali</span> <br>
+  and I'm a Full Stack 🌐 Web Developer <br>
+  📍 Pune, India🔥
+</h2>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/harshal20m/count.svg?" alt="Visitor Count">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshal20m&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshal20m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshal20m&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph">
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" height="150" alt="Animated Image">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,html5,css3,javascript,java,aws" height="30" alt="Skills">
+</p>
 
 ###
 
