@@ -32,6 +32,7 @@
   <table>
     <tr>
       <td>
+	      <center>
         <h3>Skills</h3>
         <div>
           <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
@@ -62,8 +63,10 @@
           <img width="12" />
           <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo" />
         </div>
+		      </center>
       </td>
       <td>
+	      <center>
         <h3>Social Handles</h3>
         <div>
           <a href="https://www.linkedin.com/in/harshal-mali-b40b61244/" target="_blank">
@@ -85,6 +88,7 @@
             <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
           </a>
         </div>
+		      </center>
       </td>
     </tr>
   </table>
