@@ -1,4 +1,4 @@
- <h2 align="center">
+<h2 align="center">
   Hi 👋! My name is <span style="color: #4CAF50;">Harshal Mali</span> <br>
   and I'm a Full Stack 🌐 Web Developer <br>
   📍 Pune, India🔥
@@ -22,10 +22,13 @@
 <br>
 <br>
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Animated Image" />
+<div align="center">
+  <img height="150" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Animated Image" />
+</div>
 
 ###
 
+<h3 align="left">Skills</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
   <img width="12" />
@@ -58,6 +61,7 @@
 
 ###
 
+<h3 align="left">Social Handles</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/harshal-mali-b40b61244/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
