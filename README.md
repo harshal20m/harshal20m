@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://harshalmali.netlify.app">
-    <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Click to visit my portfolio" height="150" />
+    <img src="https://github.com/harshal20m/harshal20m/blob/main/hm-modified.png" alt="Click to visit my portfolio" height="150" />
   </a>
 </div>
 
