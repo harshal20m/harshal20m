@@ -10,6 +10,8 @@
   <a href="https://harshalmali.netlify.app">
     <img src="https://github.com/harshal20m/harshal20m/blob/main/hm-modified.png" alt="Click to visit my portfolio" height="150" />
   </a>
+	<br/>
+	  <strong>Click the image to visit my portfolio 🚀</strong>
 </div>
 
 <br>
