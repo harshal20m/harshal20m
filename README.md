@@ -102,10 +102,6 @@
 		<li>👨‍💻 All of my projects are available at <a href="https://harshalmali.online" target="_blank">Portfolio</a></li> 
 	</ul> 
 </div>
-<div align="center">
-  
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-<br>
 </div>
 
 ###
