@@ -57,9 +57,7 @@
           <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
           <img width="12" />
           <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo" />
-          <img width="12" />
-          <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo" />
-          <img width="12" />
+        	<img width="12" />
           <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo" />
           <img width="12" />
           <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo" />
