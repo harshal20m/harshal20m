@@ -85,10 +85,9 @@
 
 <div align="center"> 
 	<ul style="list-style-type: square;">
-		<li>🔭 I’m currently working on <strong>AI based NotesApp</strong></li> 
-		<li>🌱 I’m currently learning and exploring <strong>Master MERN stack development</strong> at industry level standards.</li> 
+		<li>🔭 I’m currently working on <strong> Nothing </strong></li> 
 		<li>💡 I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.</li> 
-		<li>👨‍💻 All of my projects are available at <a href="https://harshalmali.online" target="_blank">Portfolio</a></li> 
+		<li>👨‍💻 All of my projects are available at <a href="https://harshalmali.netlify.app" target="_blank">Portfolio</a></li> 
 	</ul> 
 </div>
 </div>
