@@ -1,99 +1,101 @@
-<h2 align="center">
-  Hi 👋! My name is <span style="color: #4CAF50;">Harshal Mali</span> <br>
-  and I'm a Full Stack 🌐 Web Developer And Android Developer <br>
-  📍 Bangalore, India🔥
-</h2>
+<!-- Header banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Harshal%20Mali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20Android%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+</div>
 
-###
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=520&lines=Building+things+for+the+web+%F0%9F%8C%90;Crafting+Android+apps+%F0%9F%93%B1;MERN+%7C+Next.js+%7C+Java+%7C+Android;Open+to+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://harshalmali.netlify.app">
-    <img src="https://github.com/harshal20m/harshal20m/blob/main/hm-modified.png" alt="Click to visit my portfolio" height="150" />
+    <img src="https://raw.githubusercontent.com/harshal20m/harshal20m/main/hm-modified.png" alt="Click to visit my portfolio" height="150" />
   </a>
-	<br/>
-	  <strong>Click the image to visit my portfolio 🚀</strong>
+  <br/><br/>
+  <a href="https://harshalmali.netlify.app">
+    <img src="https://img.shields.io/badge/Visit%20my%20Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/📍_Bangalore,_India-1f2937?style=flat-square" alt="location" />
+  <img src="https://komarev.com/ghpvc/?username=harshal20m&label=Profile%20views&color=4CAF50&style=flat-square" alt="views" />
 </div>
 
 <br>
- 
 
-###
+---
+
+### 👨‍💻 &nbsp;About Me
+
+<table align="center">
+  <tr>
+    <td>
+
+```text
+🌐  Full Stack Web Developer (MERN / Next.js)
+📱  Android Developer
+☕  Java & Spring Boot
+💡  Always learning, always shipping
+🤝  Open to exciting, innovative collaborations
+```
+
+</td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ &nbsp;Tech Stack
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <h3>Skills</h3>
-        <div>
-          <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-          <img width="12" />
-          <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo" />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo" />
-        	<img width="12" />
-          <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo" />
-          <img width="12" />
-          <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo" />
-          <img width="12" />
-          <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo" />
-        </div>
-      </td>
-      <td align="center" style="border: none;">
-        <h3>Social Handles</h3>
-        <div>
-          <a href="https://www.linkedin.com/in/harshal-mali-b40b61244/" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-          </a>
-          <a href="https://www.instagram.com/20harshal/" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-          </a>
-          <a href="https://www.youtube.com/@harshalmali856" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-          </a>
-          <a href="mailto:20harshalmali@gmail.com" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-          </a>
-          <a href="https://x.com/20harshalmali" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-          </a>
-          <a href="https://t.me/harshalme" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind&theme=dark" alt="web" />
+<br>
+<img src="https://skillicons.dev/icons?i=java,spring,android,mysql,postgres,aws,git,github&theme=dark" alt="backend and tools" />
+
 </div>
 
-###
+---
 
-<div align="center"> 
-	<ul style="list-style-type: square;">
-		<li>🔭 I’m currently working on <strong> Nothing </strong></li> 
-		<li>💡 I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.</li> 
-		<li>👨‍💻 All of my projects are available at <a href="https://harshalmali.netlify.app" target="_blank">Portfolio</a></li> 
-	</ul> 
+### 📊 &nbsp;GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshal20m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal20m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top langs" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=harshal20m&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
 </div>
+
+---
+
+### 🌱 &nbsp;Currently
+
+<div align="center">
+
+| 🔭 Exploring | 💼 Freelancing | 📫 Reach me |
+|:---:|:---:|:---:|
+| New projects & ideas | Android · MERN · Next.js · Spring Boot | [20harshalmali@gmail.com](mailto:20harshalmali@gmail.com) |
+
 </div>
 
-###
+---
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c3dj7nf6v3jpxbxuogg2lcic3a" alt="Alt text">
-</p>
+### 🌍 &nbsp;Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/harshal-mali-b40b61244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.instagram.com/20harshal/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+  <a href="https://www.youtube.com/@harshalmali856" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
+  <a href="mailto:20harshalmali@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+  <a href="https://x.com/20harshalmali" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
+  <a href="https://t.me/harshalme" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
+</div>
 
 <br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="footer" />
+</div>
