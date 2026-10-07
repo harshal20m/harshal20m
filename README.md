@@ -1,7 +1,7 @@
 <h2 align="center">
   Hi 👋! My name is <span style="color: #4CAF50;">Harshal Mali</span> <br>
   and I'm a Full Stack 🌐 Web Developer And Android Developer <br>
-  📍 Pune, India🔥
+  📍 Bangalore, India🔥
 </h2>
 
 ###
