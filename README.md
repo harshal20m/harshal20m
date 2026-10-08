@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Harshal%20Mali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20Android%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Harshal%20Mali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20and%20Android%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 </div>
 
 <div align="center">
